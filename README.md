@@ -1,2 +1,3 @@
-# minlang
-Minimal Programming Language
+# minimaL
+
+> A Minimal Programming Language
